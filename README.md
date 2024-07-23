@@ -1,1 +1,1 @@
-In this repository I am adding my semester projects. That include Face recognition system, Attendence system and File management system all of these using C++ fully and some other libraries like open cv
+In this repository I am adding my semester projects. That include Face recognition system and Attendence system both of these using C++ fully and some other libraries like open cv
